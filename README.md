@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **divyanshi.rajput@iiitb.ac.in**
 
+- 😄 Pronouns: she/her
+
 - ⚡ Fun fact **I think I am funny**
 
 
