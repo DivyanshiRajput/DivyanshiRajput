@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshirajput&" alt="divyanshirajput" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
 
