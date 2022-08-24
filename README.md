@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Divyanshi Rajput</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on my portfolio website
-
-- 🌱 I’m currently learning **Node.js and React**
-
 - 📫 How to reach me **divyanshi.rajput@iiitb.ac.in**
 
 - 😄 Pronouns: she/her
