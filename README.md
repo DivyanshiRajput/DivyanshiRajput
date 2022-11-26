@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 📫 How to reach me **divyanshi.rajput@iiitb.ac.in**
-
+- 🌱 I’m currently learning Golang
 - 😄 Pronouns: she/her
 
 
